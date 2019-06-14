@@ -2,7 +2,7 @@
 title: Rain Gardens Website
 email: your-email@domain.com
 url: https://mlbott.github.io/client-project-1
-baseurl: http://michaelbottom.me/client-project-1/
+baseurl: './'
 description: "Rain Gardens Webpage"
 keywords: "your keywords, separated by commas"
 skills: "Web Developer - Software Developer"
