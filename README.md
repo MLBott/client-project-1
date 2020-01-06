@@ -6,7 +6,7 @@
 ___
 
 ## Description
-An information website on Rain Gardens. Target audience are elementary school children.
+An information website on Rain Gardens. The target audience is elementary school children.
 Why an informational website?
 
 ➢ Non-digital documents are often lost, yet most people carry phones throughout the day. A Pew Research Center poll found that last year 77% of Americans had smartphones.
