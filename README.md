@@ -1,20 +1,29 @@
-Rain Gardens Webpage
-=========================
+### Table of Contents
 
-## Rain gardens synergistically benefit inhabitants, the natural flora, as well as animals in nearby bodies of water.
-➢ They help inhabitants by reducing soil erosion, flooding, and returning moisture to the atmosphere.
+[Description]()
+[How to Use]()
 
-➢ They help natural flora by amplifying seeding and cross pollination of natural flora.
+___
 
-➢ And they help animals in nearby bodies of water by reducing the amount of pollution reaching those bodies of water.
+## Description
+An information website on Rain Gardens. Target audience are elementary school children.
+Why an informational website?
+➢ Non-digital documents are often lost, yet most people carry phones throughout the day. A Pew Research Center poll found that last year 77% of Americans had smartphones.
+➢ People using the rain gardens will want a setup process that is easy to understand.
+➢ As busy people, the users will want an instructional process that’s easy to access whenever they require.
+➢ To find the informational web site, they would only need to type in a web address or perform a Google search.
+➢ Residents without phones can easily access the webpage at a local library or home computer.
+➢ It’s a simple way to direct people to more information on the rain garden initiative.
+➢ Since the rain garden initiative is primarily interested in assisting elder residents, website ease of use and simplicity will be a strong focus.
 
-## Rain gardens, and similar solutions, are crucial to mitigating current negative effects on the environment.
-➢ These negative effects are caused by increased industrialization, city infrastructure development, and population growth.
+#### Technologies
+- HTML/CSS
+- JavaScript
+___
 
-➢ More extreme weather due to climate change, i.e. flooding or drier soil, intensifies the need.
+## How to Use
 
-➢ As Chicago is one of the largest U.S. cities, rain gardens will positively affect many residents.
-
+Link: http://michaelbottom.me/client-project-1/#portfolio
 
 
 ```txt
