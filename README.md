@@ -23,9 +23,10 @@ Why an informational website?
 
 ➢ Since the rain garden initiative is primarily interested in assisting elder residents, website ease of use and simplicity will be a strong focus.
 
-#### Technologies
-- HTML/CSS
+## Tech Stack
 - JavaScript
+- HTML/CSS
+
 ___
 
 ## How to Use
